@@ -1,3 +1,5 @@
+// node app --- to run server
+
 /* importar o módulo do framework express */
 var express = require('express');
 
